@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m and Explorer<br>👀 I’m interested in Quantum Computing, CyberSecurity and Cryptography<br>🌱 I’m currently on permanent travel
+👋 Hi, I’m and Explorer<br>👀 I’m interested in Quantum Computing, CyberSecurity and Cryptography<br>🌱 I’m currently on Svalbard 
 
 
 ## 🌐 Socials:
