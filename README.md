@@ -1,6 +1,6 @@
 # 🌌 About Me:
-👋 Hi, I’m and Explorer<br>👀 I’m interested in Quantum Computing, CyberSecurity and Cryptography
-#<br>❄️I’m currently on Svalbard<br> 
+👋 Hi, I’m and Explorer<br>👀 I’m interested in Quantum Computing, CyberSecurityAI and Cryptography
+#<br>❄️ I’m currently on Svalbard<br> 
 
 
 ## 🌐 Socials:
